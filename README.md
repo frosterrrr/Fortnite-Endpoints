@@ -2,11 +2,11 @@
 
 > All found creator made Fortnite tracking endpoints
 
-## 🔗 Creator Made Endpoints
+## [Fortnite-API Endpoints](https://fortnite-api.com)
 
 - [AES Tracker](https://fortnite-api.com/v2/aes)
-- [Lucas7Yoshi](https://replace-with-lucas7yoshi-link.com)
-- [VastBlast](https://replace-with-vastblast-link.com)
+- [Banner Tracker](https://fortnite-api.com/v1/banners)
+- [Banner Colors](https://fortnite-api.com/v1/banners/colors)
 - [GhostScissors](https://replace-with-ghostscissors-link.com)
 - [MisterLoki](https://replace-with-misterloki-link.com)
 - [McMistrzYT](https://replace-with-mcmistrzyt-link.com)
