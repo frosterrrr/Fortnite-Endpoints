@@ -10,4 +10,4 @@
 
 ---
 
-**Made by** [@FrosterLeaks](https://github.com/frosterrr)
+**Made by** [FrosterLeaks](https://x.com/FrosterLeaks)
