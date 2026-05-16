@@ -2,6 +2,15 @@
 
 > Useful Fortnite endpoints for Fortnite Tracking
 
+## Offical Fortnite Endpoints
+
+- [MP Item Shop](https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/mp-item-shop)
+- [Shop Offer Visuals](https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/shopoffervisuals)
+- [Spark Tracks](https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/spark-tracks)
+- [Tournament Information](https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/tournamentinformation)
+- [Dynamic Backgrounds](https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/dynamicbackgrounds)
+- [Crew Screen Data](https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/crewscreendata)
+
 ## [Fortnite-API Endpoints](https://fortnite-api.com)
 
 - [AES Tracker](https://fortnite-api.com/v2/aes)
