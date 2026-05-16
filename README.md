@@ -1,28 +1,33 @@
 # Fortnite API Endpoints - Creator Made
 
-> All found creator-made Fortnite tracking endpoints
+> All found creator made Fortnite tracking endpoints
 
 ## 🔗 Creator Made Endpoints
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px; margin-top: 20px;">
-
-  <!-- Card 1 -->
-  <a href="https://fortnite-api.com/v2/aes" target="_blank" style="text-decoration: none; color: inherit;">
-    <div style="background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 20px; transition: all 0.2s;">
-      <h3 style="margin: 0 0 8px 0; color: #58a6ff;">Fortnite Pak Files</h3>
-      <p style="margin: 0; color: #8b949e; font-size: 0.95em;">Short description of what this endpoint does.</p>
-    </div>
-  </a>
-
-  <!-- Card 2 -->
-  <a href="https://YOUR-LINK-HERE" target="_blank" style="text-decoration: none; color: inherit;">
-    <div style="background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 20px; transition: all 0.2s;">
-      <h3 style="margin: 0 0 8px 0; color: #58a6ff;">📡 Another Endpoint</h3>
-      <p style="margin: 0; color: #8b949e; font-size: 0.95em;">Description here.</p>
-    </div>
-  </a>
-
-</div>
+- [AES Tracker](https://fortnite-api.com/v2/aes)
+- [Lucas7Yoshi](https://replace-with-lucas7yoshi-link.com)
+- [VastBlast](https://replace-with-vastblast-link.com)
+- [GhostScissors](https://replace-with-ghostscissors-link.com)
+- [MisterLoki](https://replace-with-misterloki-link.com)
+- [McMistrzYT](https://replace-with-mcmistrzyt-link.com)
+- [gamerbross](https://replace-with-gamerbross-link.com)
+- [Beat-YT](https://replace-with-beat-yt-link.com)
+- [mlodyskini](https://replace-with-mlodyskini-link.com)
+- [NOTPIES](https://replace-with-notpies-link.com)
+- [Amrsatrio](https://replace-with-amrsatrio-link.com)
+- [ItsJunction](https://replace-with-itsjunction-link.com)
+- [SizzyFNBR](https://replace-with-sizzyfnbr-link.com)
+- [Not-Neon](https://replace-with-not-neon-link.com)
+- [thoo0244](https://replace-with-thoo0244-link.com)
+- [FiberAhmed](https://replace-with-fiberahmed-link.com)
+- [PeQuLeaks](https://replace-with-pequleaks-link.com)
+- [Tectors](https://replace-with-tectors-link.com)
+- [3jm](https://replace-with-3jm-link.com)
+- [HybridFNBR](https://replace-with-hybridfnbr-link.com)
+- [Slushia](https://replace-with-slushia-link.com)
+- [FuneeLeaks](https://replace-with-funeeleaks-link.com)
+- [Cyuubi](https://replace-with-cyuubi-link.com)
+- [Brianna](https://replace-with-brianna-link.com)
 
 ---
 
