@@ -2,7 +2,7 @@
 
 > Useful Fortnite endpoints for Fortnite Tracking
 
-## [Offical Fortnite Endpoints](https://fortnitecontent-website-prod07.ol.epicgames.com/static/preview.html)
+## [Offical Fortnite Endpoints](https://fortnitecontent-website-prod07.ol.epicgames.com)
 
 - [MP Item Shop](https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/mp-item-shop)
 - [Shop Offer Visuals](https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/shopoffervisuals)
