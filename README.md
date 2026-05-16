@@ -65,4 +65,8 @@
 - [Lists Mappings & Their Metadata](https://api.fortniteapi.com/v1/mappings/legacy)
 - [List Mappings & Their Metadata](https://api.fortniteapi.com/v1/mappings)
 
+---
+
+> This Repository Is NOT Affiliated With These URLs/Links In Any Way
+
 **Made by** [FrosterLeaks](https://x.com/FrosterLeaks)
