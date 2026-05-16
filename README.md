@@ -78,4 +78,16 @@
 
 > This Repository Is NOT Affiliated With These URLs/Links In Any Way
 
+---
+
+## Fortnite Information
+
+| Version | Key |
+|---------|-----|
+| v40.40  | 0x76F0FD67E7CE5EE97DA78C861A8A51F8ED4BE64C838989DF204D102D9B30627C |
+
+| Chapter | Season|
+|---------|-------|
+| 7       | 2     |
+
 **Made by** [FrosterLeaks](https://x.com/FrosterLeaks)
