@@ -34,4 +34,6 @@
   
 ---
 
+## [Fortniteapi Endpoints](https://fortniteapi.com)
+
 **Made by** [FrosterLeaks](https://x.com/FrosterLeaks)
