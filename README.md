@@ -1,6 +1,6 @@
 # Fortnite Endpoints
 
-> Useful creator made endpoints for Fortnite tracking
+> Useful Fortnite endpoints for Fortnite Tracking
 
 ## [Fortnite-API Endpoints](https://fortnite-api.com)
 
