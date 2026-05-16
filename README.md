@@ -1,4 +1,4 @@
-# Fortnite API Endpoints - Creator Made
+# Fortnite Endpoints
 
 > Useful creator made endpoints for Fortnite tracking
 
