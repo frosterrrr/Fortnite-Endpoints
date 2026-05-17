@@ -90,4 +90,8 @@
 |---------|-------|
 | 7       | 2     |
 
+---
+
 **Made by** [FrosterLeaks](https://x.com/FrosterLeaks)
+
+![My Screenshot](assets/screenshot.png)
